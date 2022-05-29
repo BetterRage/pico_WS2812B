@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+B:/Git-repos/pico-dev/WS2812B/build/CMakeFiles/ELF2UF2Build
+B:/Git-repos/pico-dev/WS2812B/build/CMakeFiles/ELF2UF2Build.rule
+B:/Git-repos/pico-dev/WS2812B/build/CMakeFiles/ELF2UF2Build-complete.rule
+B:/Git-repos/pico-dev/WS2812B/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+B:/Git-repos/pico-dev/WS2812B/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+B:/Git-repos/pico-dev/WS2812B/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+B:/Git-repos/pico-dev/WS2812B/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+B:/Git-repos/pico-dev/WS2812B/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+B:/Git-repos/pico-dev/WS2812B/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+B:/Git-repos/pico-dev/WS2812B/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
