@@ -8,6 +8,7 @@ set(CMAKE_CXX_STANDARD 17)
 pico_sdk_init()
 add_executable(${PROJ_NAME}
 	main.c
+	WS2812B.c
 	)
 target_link_libraries(${PROJ_NAME} pico_stdlib)
 pico_enable_stdio_usb(${PROJ_NAME} 1)
